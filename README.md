@@ -6,7 +6,7 @@ Me especializo en conectar los datos con las políticas públicas. Aplico estad�
 
 Domino el análisis econométrico a través de distintas estructuras de información: manejo series de tiempo para proyecciones y tendencias, datos tipo panel para capturar dinámicas temporales y datos de corte transversal para realizar diagnósticos precisos.
 
-He complementado mi experiencia con múltiples cursos especializados en Ciencia de Datos.
+He complementado mi experiencia con múltiples cursos especializados en estadística y en Ciencia de Datos.
 
 ---
 
